@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, "Microsoft YaHei", sans-serif;
+  background: #f6f8fb;
+  margin: 0;
+  color: #172033;
+}
+
+main {
+  max-width: 820px;
+  margin: 50px auto;
+  padding: 0 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.sub,
+.note {
+  text-align: center;
+  color: #64748b;
+}
+
+.card {
+  background: #ffffff;
+  padding: 24px;
+  border-radius: 14px;
+  margin: 20px 0;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+textarea,
+input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #dbe1ea;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+textarea {
+  height: 110px;
+}
+
+button {
+  padding: 11px 18px;
+  border: 0;
+  border-radius: 8px;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+  margin: 4px;
+}
+
+.rate {
+  background: #64748b;
+}
+
+.hidden {
+  display: none;
+}
+
+.tag {
+  display: inline-block;
+  background: #eef2ff;
+  padding: 5px 9px;
+  border-radius: 20px;
+  margin: 4px;
+}
+
+h2 {
+  font-size: 19px;
+}
+
+li {
+  margin: 7px 0;
+}
