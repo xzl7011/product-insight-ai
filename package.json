@@ -1,0 +1,8 @@
+{
+  "name": "product-insight-ai",
+  "version": "1.0.0",
+  "description": "AI-powered product requirement analysis assistant",
+  "type": "module",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2"}
+}
